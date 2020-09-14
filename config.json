@@ -1,0 +1,17 @@
+{
+  "aws": {
+    "name": "unum",
+    "email": "hkincannon@unum.com",
+    },
+    
+  "servicenow": {
+    "instance": "https://service-now.com",
+    "username": "unum",
+    "password": "unum"
+    },
+	
+   "firewall": {
+   "username":"colonial"
+   "password":"colonial"
+  }
+ } 
